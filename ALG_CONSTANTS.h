@@ -1,0 +1,6 @@
+#ifndef ALG_CONSTANTS_H
+#define ALG_CONSTANTS_H
+
+#define MAX_COUNT_PTR 1000000
+
+#endif // ALG_CONSTANTS_H
